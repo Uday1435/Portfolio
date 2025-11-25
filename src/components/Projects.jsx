@@ -8,7 +8,7 @@ const projectsData = [
     title: "Watershed Management Research",
     description: "GIS-based analysis for Mausam River Basin, including LULC and remote sensing using QGIS.",
     tags: ["Civil Engineering", "QGIS", "Remote Sensing"],
-    link: "project-report-link",
+    link: "/Project Report.pdf",
     linkText: "Project Report",
   },
   {
