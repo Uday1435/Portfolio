@@ -24,7 +24,7 @@ const Contact = () => (
       <div className="flex flex-col items-start px-6">
         <h3 className="text-xl font-bold text-blue-700 mb-4">Find Me Online</h3>
         <div className="flex gap-6 mb-5">
-          <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/uday-choudhary-735669259/" target="_blank" rel="noopener noreferrer">
             <img src="/linkedin-icon.svg" alt="LinkedIn" className="h-10 w-10 hover:scale-110 transition-transform" />
           </a>
           <a href="https://github.com/yourprofile" target="_blank" rel="noopener noreferrer">
